@@ -1,12 +1,31 @@
-# React + Vite
+# **Aditya's Developer Portfolio** 🌐
+@ https://adityaaa1505.github.io/portfolio/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek, responsive, and personalized portfolio website crafted to showcase my journey, projects, and passion for full-stack development. Built with modern web technologies and thoughtful design, the portfolio highlights creativity and technical prowess.
+---
 
-Currently, two official plugins are available:
+## **Tech Stack**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React
+- ThreeJS
+- Tailwind CSS
+- Framer Motion
+- Shadcn/UI
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## **Features**
+
+- 🏠 Landing Page: A clean, bold introduction with a dynamic tagline and CTA to explore.
+- 🙋‍♂️ About Page: Includes a code snippet, with 3D animated background created with ThreeJS that reflects my personality.
+- 🛠 Projects Page: Grid display with tech stack icons; detailed project carousel with descriptions and visuals.
+- 🔄 Full CRUD operations for playlists and songs
+- 🌐 Responsive Design: Optimized for desktops, tablets, and mobile screens.
+- 🎨 Modern UI/UX: Soft color palette, rounded corners, minimalistic layout, and micro-interactions.
+
+---
+
+## **Visit It**
+
+```bash
+  https://adityaaa1505.github.io/portfolio/
