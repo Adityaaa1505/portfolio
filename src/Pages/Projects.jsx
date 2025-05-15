@@ -96,6 +96,14 @@ const Projects = () => {
         api.on("select", () => {
             setCurrent(api.selectedScrollSnap() + 1)
         })
+        const interval = setInterval(() => {
+            if (api.canScrollNext()) {
+                api.scrollNext();
+            } else {
+                api.scrollTo(0);
+            }
+        }, 8000);
+        return () => clearInterval(interval);
     }, [api])
 
     return (
